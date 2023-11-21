@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nao{
+    background-color: rgba(255, 0, 0, 0.466);
+}
+
+#sim{
+    background-color: lightgreen;
+}
+
+input{
+    width: 100px;
+    height: 40px;
+}
